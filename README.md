@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatMate
+- 👋 Hi, I’m @Matteo
 - 👀 I’m interested in ... python for Autodesk Maya
 - 🌱 I’m currently learning ... python3
 - 💞️ I’m looking to collaborate on ...
